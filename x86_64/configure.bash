@@ -1,2 +1,2 @@
-rm xor-crypto-repo.db xor-crypto-repo.files
-mv xor-crypto-repo.db.tar.gz xor-crypto-repo.db && mv xor-crypto-repo.files.tar.gz xor-crypto-repo.files
+rm messenger-repo.db messenger-repo.files
+mv mssenger-repo.db.tar.gz messenger-repo.db && mv messenger-repo.files.tar.gz messenger-repo.files
